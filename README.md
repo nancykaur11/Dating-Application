@@ -1,7 +1,6 @@
 # Dating-Application
 web page where you are inviting application to Date your Daughter/Son    
 
-Click on link to see Live Preview point_right https://kapilharode.github.io/Dating-Application/
 
 Dating application 👰‍♀️ registration forms using Html and Css.	Dating application 👰‍♀️ registration forms using Html and Css.
 Forms are always an essential part of any project and you will be working with a lot of forms in most of the applications	Forms are always an essential part of any project and you will be working with a lot of forms in most of the applications
